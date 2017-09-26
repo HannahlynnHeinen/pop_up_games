@@ -1,0 +1,118 @@
+body {
+  background: #03b6d5;
+}
+
+section {
+  background: #FFFFFF;
+  max-width: 1500px;
+  padding: 5px;
+}
+
+article {
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 25px;
+  margin: 5px;
+  padding: 5px;
+}
+
+p {
+    font-family: arial;
+}
+
+
+h1 {
+  font-size: 36px;
+  font-family: arial;
+  color: #0497ff;
+  text-align: center;
+}
+
+h2 {
+  font-size: 28px;
+  font-family: arial;
+  color: #0497ff;
+  text-align: center;
+}
+
+h3 {
+	font-size: 24px;
+	font-family: arial;
+	color: #0497ff;
+}
+
+.caption {
+  font-style: italic;
+  display: inline;
+}
+
+.even {
+    color: #03b6d5;
+}
+.odd {
+    color: #0497ff;
+}
+
+.testimonials {
+	text-align: center;
+}
+
+.contact {
+	font-style: italic;
+	display: inline;
+	color: #03b6d5
+}
+
+.other {
+	display: inline;
+}
+
+.contactinfo {
+	text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  font-family: arial,sans-serif;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+nav li a:hover {
+  background-color: #0497ff;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+	font-family: arial;
+}
+
+.rent {
+	font-weight: bold;
+}
+
+.header-site{
+   background: url(C:\Users\Holly\Documents\pop_up_games\pop_up_games\public_html\img\logo.jpg);
+}
